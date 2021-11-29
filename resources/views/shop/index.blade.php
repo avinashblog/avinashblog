@@ -9,7 +9,7 @@
 					<p class="banner-des">Ace Capital has developed system by using Advanced Technology and Blockchain.
 						System is much Simpler, more Profitable, Secured, and 100% Transparent, tron is one of the
 						largest blockchain-based operating systems in the world.</p>
-					<a href="#" class="btn">Login</a>
+					<a href="#" class="btn">Logins</a>
 				</div>
 			</div>
 			<div class="col-lg-6 col-md-6 position-u wow fadeInRight">
