@@ -14,7 +14,7 @@
 			</div>
 			<div class="col-lg-6 col-md-6 position-u wow fadeInRight">
 				<div class="banner-img">
-					<img src="{{ asset('shop/assets/img/header.png') }}" alt="banner">
+					<img src="{{ asset('shop/assets/img/header.png') }}" alt="banner"> 
 				</div>
 			</div>
 		</div>
