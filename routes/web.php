@@ -26,4 +26,5 @@ Route::group(['namespace' => 'App\Http\Controllers\Admin','prefix' => 'admin/','
     Route::get('user_list', 'DashboardController@users');
     Route::get('blockUserId/{id}', 'DashboardController@blockUser');
     Route::get('showBusinessByUserId/{id}', 'DashboardController@showUserBusines');
+    
 });
